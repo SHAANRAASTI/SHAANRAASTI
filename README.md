@@ -1,9 +1,9 @@
-[![MasterHead](https://github.com/SHAANRAASTI/Daffy/blob/master/Screenshots/Screenshot_2021-02-11-16-52-33-15.jpg)](https://khushboogoel01.github.io)
+[![MasterHead](https://github.com/SHAANRAASTI/SHAANRAASTI/blob/main/animation_500_kl9eytja.gif)](https://k.github.io)
 <h1 align="center">Hi 👋, I'm SHAAN RAASTI</h1>
 <h3 align="center"> Passionate about developing cool projects 👍!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaanraasti&label=Profile%20views&color=0e75b6&style=flat" alt="shaanraasti" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/SHAANRAASTI/SHAANRAASTI/blob/main/animation_500_kl9euv7w.gif">
 
 - 👨‍💻 You can also check out my portfolio at [https:///](https
 - 📫 How to reach me **shanrasti1@gmail.com**
